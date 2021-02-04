@@ -19,7 +19,6 @@ Development is ongoing, and the development team, as well as other volunteers, c
 
 #### Version strategy
 Version numbers are following ```major.minor.patch``` semantics.
-http://lagaiphone.com/licenses/MIT.
 
 #### Branches
 There are 3 types of branches in this repository:
